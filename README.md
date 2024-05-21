@@ -221,7 +221,12 @@ void loop() {
 
 
 ```
+## EVIDENCIA
+![7e8acf1a-1e88-432c-8aa7-a6b1943dd68e](https://github.com/KingVara2/Los-bombas/assets/158336615/707b08f8-593c-48d1-a5d8-f9d6885539c0)
 
+![85a06821-fe33-4433-86b1-78a9eee42c18](https://github.com/KingVara2/Los-bombas/assets/158336615/5ffeff09-09ab-48b5-b836-37e34ef58ffb)
+
+![15bc6522-cf0d-49be-97cd-94b1e27bb423](https://github.com/KingVara2/Los-bombas/assets/158336615/17dc33e1-faf5-4579-81af-184712f735b8)
 
 
 # 3.2 
