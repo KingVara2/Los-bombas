@@ -229,7 +229,7 @@ void loop() {
 
 Practica en arduino con codigo de c# 
 
-## CODIGO
+## CÓDIGO
 
 ``` C#
  /*
