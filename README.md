@@ -1,5 +1,24 @@
 # Los-bombas
-Cierre semestre
+
+## Portada
+### Instituto Tecnologico de Tijuana
+
+### Materia: 
+Lenguajes de interfaz
+
+### Profesor: 
+René Solis
+
+### Alumnos: 
+Valeria Rosales Gomez C21212361
+
+Ulises Andres Vara Espinoza 21212656
+
+Oscar Bernardino Vera Cortez 20211855
+
+Melanie Estefania GonzaleZ Vazquez 2121956
+
+# Cierre semestre
 ## Practica 3.1
 ### CODIGO EN VISUAL
 
